@@ -1,0 +1,23 @@
+{
+  "name": "polymer-redux",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "redux": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rwibawa/polymer-redux.git"
+  },
+  "author": "Wibawa, Ryan <ryan.wibawa@ge.com> (GE Digital, consultant)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rwibawa/polymer-redux/issues"
+  },
+  "homepage": "https://github.com/rwibawa/polymer-redux#readme"
+}

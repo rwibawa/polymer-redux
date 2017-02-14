@@ -1,0 +1,19 @@
+{
+  "name": "polymer-redux",
+  "homepage": "https://github.com/rwibawa/polymer-redux",
+  "authors": [
+    "Wibawa",
+    "Ryan (GE Digital",
+    "consultant) <ryan.wibawa@ge.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
